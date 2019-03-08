@@ -4,7 +4,7 @@
 **前端学习路线：**
 ------------------
 
-![C:\\3b13dc690b326c12fb91d6b736418946](media/947c201ed19b30dcdc3d00f5ae2d09b8.png)
+![https://github.com/liuyuqin1991/front-technology/blob/master/images/road.png)
 
 **第一章 技术（核心单独列章节）**
 ---------------------------------
